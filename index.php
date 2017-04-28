@@ -8,7 +8,8 @@ echo "jamon";
 echo "pepa pig";
 
 function foo(){
-    echo 200;
+    echo 2;
+    
 }
 
 function faa(){
