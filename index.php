@@ -1,14 +1,12 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 echo "hola";
 
 echo "jamon";
 
-echo "pepg pig";
-echo "peps pig";
+echo "pepa pig";
+
+function foo(){
+    echo 2;
+}
