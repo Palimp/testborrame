@@ -8,9 +8,9 @@ echo "jamon";
 echo "pepa pig";
 
 function foo(){
-    echo 2;
+    echo 20;
 }
 
 function faa(){
-    echo 3;
+    echo 30;
 }
